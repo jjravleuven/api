@@ -1,0 +1,15 @@
+# GITIGNORE - SERVER
+# .env
+.mssql_config
+.postgres_config
+node_modules/
+*-error.json
+*.log
+.DS_Store
+/database/.mssql.json
+/database/.postgres.json
+# /database/jwtSecret.js
+/vm/id_ubuntu_rsa
+/vm/id_ubuntu_rsa.pub
+/vm/.env
+/vm/.github

@@ -1,0 +1,13 @@
+## Credentials
+- ssh portaladmin@40.70.12.253/booktportal.cloudapp.net:22
+- github repo: token key: c0a1db253aff27596622116dbdb14b007e2cf4d4
+- james@bookt.in ssh rsa_id.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC64rHfXCf6qD87nMRNyVsYJohKdeoC93maFrzx6sxc/KYgIfNnCVDxNz7LZBeINFW2PbDClIQnfq1s6vf81h0KZBoLsW3oB1JweiPRlpnQIliuSCXDxxsPBJI4+yxftj3X00JOzuPmEb9eAxEPVRhhajQ/Nprz5QnUTMC3PWrXxeZMqfuQxMQP6Ono8Cc6I2XmESIrg21dRso9+rzxkRhPKXjB7wRkUQc1AVpdD4kLQKUh6YqmtJydWyMX1Okm6lg9MrAZy5sRxHyZ8X8ARY+1Ad86dNbrOMkqMViu+QzdHGKABWnaHWN15MwuU6KyVOfb/hBM6OHCHYhmUjA0qXYh1opaiow98lXTm0VEabPzwnWAWOos+DnW3BLuGjAWaYsseZkr9AdqR/f8d1r6Tl4dQw1jmBheQTcgNLLYUPPZlsq2XSg0R0x1AUKNl8Xyfs4YrI11lwQUGaVTGIVjjNa9tqGRq7Djw9TKGGB8BITiYeWzZrWaoG1zu0YzPMwaS2riLXRPAflKD6N+QoEGaFEqc0oG3mgeu8JeQbCWfQvgQx5crEseO6CWE4g79zKq2yYscdPnjg7pIo7x2XxdDlb36mze60mD3UCoS+ebXiCW8skqMTmT2exb1UduncdQCE13QWC63uVXK9W7YYNkyATvbYW0pmnZm3QWPbBM7j8vkw== james@bookt.in
+
+## PostgreSQL 10.1
+- username: postgres
+- database: booktportal
+- password: Mccrsvnl1
+- host: localhost
+- port: 5432
+- ssl: true
