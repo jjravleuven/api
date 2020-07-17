@@ -22,7 +22,7 @@
     "graceful-fs": "^4.1.11",
     "http": "^0.0.0",
     "jsonwebtoken": "^8.2.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.19",
     "minimatch": "^3.0.4",
     "moment": "^2.21.0",
     "moment-timezone": "^0.5.14",
