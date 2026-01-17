@@ -7,7 +7,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC64rHfXCf6qD87nMRNyVsYJohKdeoC93maFrzx6sxc
 ## PostgreSQL 10.1
 - username: postgres
 - database: booktportal
-- password: Mccrsvnl1
+- password: <pwd>
 - host: localhost
 - port: 5432
 - ssl: true
